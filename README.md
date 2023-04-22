@@ -3,6 +3,6 @@ tester for new telegram bots
 
 <h2>
 Commands:
-<code> bsend <text> </code> sends text to yourself
-<code> ssend chat_id text </code> sends text to someone specific
 </h2>
+<h4><code> bsend <text> </code> sends text to yourself</h4>
+<h4><code> ssend chat_id text </code> sends text to someone specific</h4>
